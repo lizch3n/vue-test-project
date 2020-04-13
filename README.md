@@ -1,24 +1,8 @@
-# vue-test-project
+# Fragrance Quiz
 
-## Project setup
-```
-npm install
-```
+This is a simple vue app
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[https://fragrance-quiz-vue.herokuapp.com/](https://fragrance-quiz-vue.herokuapp.com/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+[react version](https://github.com/lizch3n/react-test-project)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
